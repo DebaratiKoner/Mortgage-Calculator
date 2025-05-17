@@ -1,1 +1,1 @@
-
+This is a simple and interactive Mortgage Repayments Calculator built using Streamlit. It helps users estimate their monthly mortgage repayments, total repayment amount, and total interest over the loan term. It also displays a payment schedule and a visual chart of the remaining loan balance over time.
